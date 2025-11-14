@@ -1,0 +1,23 @@
+{
+  "name": "slidev-addon-ultracharger-demo",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export --timeout 190000"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "^1.2.3",
+    "@slidev/cli": "^52.8.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@twitwi/slidev-addon-ultracharger": "*",
+    "cli": "^1.0.1",
+    "plotly.js": "*",
+    "slidev-addon-remoji": "github:twitwi/slidev-addon-remoji",
+    "vue3-plotly": "^0.0.7"
+  },
+  "devDependencies": {
+    "playwright-chromium": "*"
+  }
+}
