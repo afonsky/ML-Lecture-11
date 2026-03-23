@@ -2,15 +2,15 @@
 
 <v-clicks>
 
-* <Link to="3">Prototype Methods</Link> <span style="color:gray; font-size:0.7em">~15 min</span>
+* <Link to="3">Prototype Methods</Link>
 
-* <Link to="10">Gaussian Mixtures</Link> <span style="color:gray; font-size:0.7em">~15 min</span>
+* <Link to="10">Gaussian Mixtures</Link>
 
-* <Link to="16">k-Nearest Neighbors</Link> <span style="color:gray; font-size:0.7em">~25 min</span>
+* <Link to="16">k-Nearest Neighbors</Link>
 
-* <Link to="25">Adaptive Metrics & Invariant Transformations</Link> <span style="color:gray; font-size:0.7em">~15 min</span>
+* <Link to="25">Adaptive Metrics & Invariant Transformations</Link>
 
-* <Link to="32">Summary & Practical Guidelines</Link> <span style="color:gray; font-size:0.7em">~10 min</span>
+* <Link to="32">Summary & Practical Guidelines</Link>
 
 </v-clicks>
 
