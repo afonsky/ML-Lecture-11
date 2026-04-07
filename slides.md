@@ -32,7 +32,7 @@ mdc: true
 title: Machine Learning
 hideInToc: true
 subtitle: Prototype Methods & kNN
-date: 24/03/2026
+date: 07/04/2026
 venue: HSE
 author: Alexey Boldyrev
 ---
